@@ -23,7 +23,7 @@
   - D. Configuración de VLANs
   
 - V. Seguridad y cortafuegos
-  - A. FUnciones de seguridad de pfSense
+  - A. Funciones de seguridad de pfSense
   - B. Configuración del cortafuegos
   - C.Reglas de filtrado y políticas de seguridad
   - D. NAT
@@ -36,5 +36,5 @@
    - E. Balanceo de carga y alta disponibilidad
    
  - VII. Monitereo y registro
- -  A. Herramientas de monitoreo disponibles
- -  B. Registro de eventos y configuración de registros
+   - A. Herramientas de monitoreo disponibles
+   - B. Registro de eventos y configuración de registros
