@@ -2,7 +2,7 @@
 
 ## Índice
 
-- I. Intorducción a pfSense
+- I. Introducción a pfSense
   - A. Definición y conceptos básicos
   - B. Ventajas y características proncipales 
   
