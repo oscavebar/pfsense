@@ -24,7 +24,7 @@
   
 - V. Seguridad y cortafuegos
   - A. FUnciones de seguridad de pfSense
-  - B. COnfiguración del cortafuegos
+  - B. Configuración del cortafuegos
   - C.Reglas de filtrado y políticas de seguridad
   - D. NAT
   
