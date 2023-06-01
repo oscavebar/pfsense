@@ -22,7 +22,7 @@
   - C. Asignaciones de direcciones IP
   - D. Configuración de VLANs
   
- - V. Seguridad y cortafuegos
+- V. Seguridad y cortafuegos
   - A. FUnciones de seguridad de pfSense
   - B. COnfiguración del cortafuegos
   - C.Reglas de filtrado y políticas de seguridad
