@@ -3,7 +3,7 @@
 ## Índice
 
 - I. Introducción a pfSense
-  - A. [Definición y conceptos básicos](apartados/introduccion.md)
+  - A. [¿Qué es pfSense?](apartados/introduccion.md)
   - B. Ventajas y características proncipales 
   
 - II. Arquitectura de pfSense
