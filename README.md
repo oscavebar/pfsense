@@ -38,3 +38,18 @@
  - VII. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
    - B. Registro de eventos y configuración de registros
+   
+ - VIII. Actualizaciones y mantenimiento
+   - A. Actualización de pfSense
+   - B. Respaldo y restauración de configuraciones
+   - C. Solución de problemas comunes
+ 
+ - IX. Casos de uso y ejemplos prácticos
+   - A. Implementación de pfSense en una red doméstica
+   - B. Configuración de pfSense para una pequeña empresa
+   - C. Escenarios avanzados y personalización
+   
+ - X. Conclusiones
+   - A. Resumen de los principales puntos cubiertos
+   - B. Ventajas y desventajas de pfSense
+   - C. Recomendaciones y consideraciones finales
