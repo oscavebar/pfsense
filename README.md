@@ -35,4 +35,6 @@
    - D. Proxy inverso y servidor WEB
    - E. Balanceo de carga y alta disponibilidad
    
- 
+ - VII. Monitereo y registro
+ -  A. Herramientas de monitoreo disponibles
+ -  B. Registro de eventos y configuración de registros
