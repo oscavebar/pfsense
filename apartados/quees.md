@@ -1,4 +1,4 @@
-# Introducción a pfSense
+# ¿Qué es pfSense?
 pfSense es una potente distribución de software de código abierto basada en FreeBSD que se utiliza ampliamente como firewall y enrutador de red. Ofrece una amplia gama de características y funcionalidades avanzadas que la convierten en una opción popular tanto para uso doméstico como empresarial.
 
 Como firewall, pfSense proporciona un control granular sobre el tráfico de red, permitiendo a los administradores definir y aplicar políticas de seguridad personalizadas. Esto incluye la capacidad de filtrar paquetes, bloquear contenido malicioso, crear VPN seguras y establecer reglas de acceso a Internet.
