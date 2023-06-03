@@ -29,5 +29,5 @@
     
 - VII. Conclusiones
    - A. [Resumen de los principales puntos cubiertos](apartados/resumen.md)
-   - B. Ventajas y desventajas de pfSense
+   - B. [Ventajas y desventajas de pfSense](ventajasydesventajas.md)
    - C. Conclusiones
