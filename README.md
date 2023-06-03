@@ -20,15 +20,15 @@
   - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md)
   
  - V. Servicios de red y servicios adicionales
-  - A. DNS
-  - B. DHCP
-  - C. Proxy inverso y servidor WEB
-  - D. Balanceo de carga y alta disponibilidad
+   - A. DNS
+   - B. DHCP
+   - C. Proxy inverso y servidor WEB
+   - D. Balanceo de carga y alta disponibilidad
   
 - VI. Seguridad y cortafuegos
-  - A. Funciones de seguridad de pfSense
-  - B. Configuración del cortafuegos
-  - C. Reglas de filtrado y políticas de seguridad
+   - A. Funciones de seguridad de pfSense
+   - B. Configuración del cortafuegos
+   - C. Reglas de filtrado y políticas de seguridad
   
 - VII. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
