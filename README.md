@@ -7,7 +7,7 @@
   - B. [Ventajas principales](apartados/ventajas.md)
   
 - II. Arquitectura de pfSense
-  - A. Componentes y requisitos del sistema
+  - A. [Requisitos del sistema](requisitos.md)
   - B. Opciones de instalación
   
 - III. Configuración inicial de pfSense
