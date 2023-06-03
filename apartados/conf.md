@@ -18,7 +18,6 @@ Tenemos que tener las siguientes interfaces de red en nuestra máquina.
 
 Ahora vamos a la segunda opción para configurar la IP de nustra interfaz LAN dondé le daré la IP: 172.16.0.1/24 (Crearemos el acceso HTTP a el configurador WEB y no queremos que reciba la ip por DHCP)
 
-IMAGENES
 ![conf6](/imagenes/conf6.png)
 ![conf7](/imagenes/conf7.png)
 ![conf8](/imagenes/conf8.png)
