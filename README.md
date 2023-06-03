@@ -13,7 +13,7 @@
 - III. Configuración inicial de pfSense
   - A. [Descarga e instalación de pfSense](apartados/instalacion.md)
   - B. [Configuración básica del sistema](apartados/conf.md)
-  - C. Acceso a la interfaz web de administración
+  - C. [Acceso a la interfaz web de administración](apartados/web.md)
   
 - IV. Interfaces y configuración de red
   - A. Tipos de interfaces de red soportadas
