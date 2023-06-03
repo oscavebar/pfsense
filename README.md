@@ -20,7 +20,7 @@
   - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md)
   
  - V. Servicios de red y servicios adicionales
-   - A. DHCP
+   - A. [DHCP](apartados/dhcp.md)
    - B. Proxy inverso y servidor WEB
    - C. Balanceo de carga y alta disponibilidad
   
