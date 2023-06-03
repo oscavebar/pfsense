@@ -8,7 +8,6 @@
   
 - II. Arquitectura de pfSense
   - A. Componentes y requisitos del sistema
-  - B. Hardware recomendado
   - C. Opciones de instalación
   
 - III. Configuración inicial de pfSense
