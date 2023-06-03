@@ -18,20 +18,19 @@
 - IV. Interfaces y configuración de red
   - A. [Tipos de interfaces de red soportadas](apartados/interfaces.md)
   - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md)
-  - C. Asignaciones de direcciones IP
   
-- V. Seguridad y cortafuegos
+ - V. Servicios de red y servicios adicionales
+  - A. DNS
+  - B. DHCP
+  - C. Proxy inverso y servidor WEB
+  - D. Balanceo de carga y alta disponibilidad
+  
+- VI. Seguridad y cortafuegos
   - A. Funciones de seguridad de pfSense
   - B. Configuración del cortafuegos
   - C. Reglas de filtrado y políticas de seguridad
   
- - VI. Servicios de red y servicios adicionales
-   - A. DNS
-   - B. DHCP
-   - C. Proxy inverso y servidor WEB
-   - D. Balanceo de carga y alta disponibilidad
-   
- - VII. Monitereo y registro
+- VII. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
    - B. Registro de eventos y configuración de registros
    
