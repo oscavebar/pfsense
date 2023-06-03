@@ -21,9 +21,8 @@
   - C. [DHCP](apartados/dhcp.md)
   
 - V. Seguridad y cortafuegos
-   - A. Funciones de seguridad de pfSense
-   - B. Configuración del cortafuegos
-   - C. Reglas del cortafuegos
+   - A. Configuración del cortafuegos
+   - B. Reglas del cortafuegos
   
 - VI. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
