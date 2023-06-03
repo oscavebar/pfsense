@@ -27,7 +27,7 @@
 - VI. Seguridad y cortafuegos
    - A. Funciones de seguridad de pfSense
    - B. Configuración del cortafuegos
-   - C. Reglas de filtrado y políticas de seguridad
+   - C. Reglas del cortafuegos
   
 - VII. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
