@@ -1,4 +1,6 @@
-- Tenemos que tener las siguientes interfaces de red en nuestra máquina.
+# Configuración básica del sistema
+
+Tenemos que tener las siguientes interfaces de red en nuestra máquina.
 
 IMAGEN INTERFACES DE RED
 
