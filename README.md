@@ -17,7 +17,7 @@
   
 - IV. Interfaces y configuración de red
   - A. [Tipos de interfaces de red soportadas](apartados/interfaces.md)
-  - B. Configuración de interfaces WAN, LAN y DMZ
+  - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md)
   - C. Asignaciones de direcciones IP
   
 - V. Seguridad y cortafuegos
