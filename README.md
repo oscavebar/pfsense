@@ -11,7 +11,7 @@
   - B. [Opciones de instalación](apartados/opciones.md)
   
 - III. Configuración inicial de pfSense
-  - A. Descarga e instalación de pfSense
+  - A. [Descarga e instalación de pfSense](apartados/instalacion.md)
   - B. Configuración básica del sistema
   - C. Acceso a la interfaz web de administración
   
