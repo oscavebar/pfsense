@@ -8,7 +8,7 @@
   
 - II. Arquitectura de pfSense
   - A. [Requisitos del sistema](apartados/requisitos.md)
-  - B. Opciones de instalación
+  - B. [Opciones de instalación](apartados/opciones.md)
   
 - III. Configuración inicial de pfSense
   - A. Descarga e instalación de pfSense
