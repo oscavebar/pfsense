@@ -22,7 +22,7 @@
   
 - V. Seguridad y cortafuegos
    - A. Configuración del cortafuegos
-   - B. Reglas del cortafuegos
+   - B. Reglas aplicadas
   
 - VI. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
