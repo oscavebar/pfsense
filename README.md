@@ -16,7 +16,7 @@
   - C. [Acceso a la interfaz web de administración](apartados/web.md)
   
 - IV. Interfaces y configuración de red
-  - A. Tipos de interfaces de red soportadas
+  - A. [Tipos de interfaces de red soportadas](apartados/interfaces.md)
   - B. Configuración de interfaces WAN y LAN
   - C. Asignaciones de direcciones IP
   - D. Configuración de VLANs
