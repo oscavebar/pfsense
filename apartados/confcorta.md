@@ -35,7 +35,7 @@ Aquí podremos configurar todas las reglas que queramos para nuestras interfaces
  
  Opciones avanzadas:
  
- - Source OS: Esta solo aplica para las reglas TCP, donede podemos especificar además cuál ha de ser el SO del equipo
+ - Source OS: Esta solo aplica para las reglas TCP, donde podemos especificar además cuál ha de ser el SO del equipo
  - Límites: En la opciónes siguientes podremos ver que se puede establecer un máximo de conexiones por host, por ejemplo.
  IMAGEN
  - Schedule: En esta podemos usar una schedule creada con anterioridad, que lo enseñaré en el siguiente apartado.
