@@ -21,7 +21,7 @@
   - C. [DHCP](apartados/dhcp.md)
   
 - V. Seguridad y cortafuegos
-   - A. [Configuración del cortafuegos](confcorta.md)
+   - A. [Configuración del cortafuegos](apartados/confcorta.md)
    - B. Reglas aplicadas
   
 - VI. Monitereo y registro
