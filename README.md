@@ -23,16 +23,12 @@
 - V. Seguridad y cortafuegos
    - A. [Configuración del cortafuegos](apartados/confcorta.md)
    - B. [Reglas aplicadas](apartados/aplicadas.md)
-  
-- VI. Monitereo y registro
-   - A. Herramientas de monitoreo disponibles
-   - B. Registro de eventos y configuración de registros
    
- - VII. Actualizaciones y mantenimiento
+- VI. Actualizaciones y mantenimiento
    - A. Actualización de pfSense
    - B. Respaldo y restauración de configuraciones
     
- - VIII. Conclusiones
+- VII. Conclusiones
    - A. Resumen de los principales puntos cubiertos
    - B. Ventajas y desventajas de pfSense
    - C. Recomendaciones y consideraciones finales
