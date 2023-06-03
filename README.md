@@ -3,6 +3,7 @@ Soy Óscar Avecilla Barrios, alumno de 2º de ASIR del instituto I.E.S. Rodrigo 
 
 ## Esquema
 Voy a implmentar el siguiente esquema de red con pfSense, añadiendo algunas reglas y servicios de los que poseemos gracias a esta herramienta, aparte de una explicación de las funciones de pfSense.
+
 ![esquema](imagenes/esquema.png)
 
 ## Índice
