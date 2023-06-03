@@ -26,7 +26,6 @@
    
 - VI. Actualizaciones y mantenimiento
    - A. [Respaldo y restauración de configuraciones](apartados/backup.md)
-   - B. Actualización de pfSense.
     
 - VII. Conclusiones
    - A. Resumen de los principales puntos cubiertos
