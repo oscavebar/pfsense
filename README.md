@@ -17,27 +17,23 @@
   
 - IV. Interfaces y configuración de red
   - A. [Tipos de interfaces de red soportadas](apartados/interfaces.md)
-  - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md)
+  - B. [Configuración de interfaces WAN, LAN y DMZ](apartados/confint.md
+  - C. [DHCP](apartados/dhcp.md)
   
- - V. Servicios de red y servicios adicionales
-   - A. [DHCP](apartados/dhcp.md)
-   - B. Proxy inverso y servidor WEB
-   - C. Balanceo de carga y alta disponibilidad
-  
-- VI. Seguridad y cortafuegos
+- V. Seguridad y cortafuegos
    - A. Funciones de seguridad de pfSense
    - B. Configuración del cortafuegos
    - C. Reglas del cortafuegos
   
-- VII. Monitereo y registro
+- VI. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
    - B. Registro de eventos y configuración de registros
    
- - VIII. Actualizaciones y mantenimiento
+ - VII. Actualizaciones y mantenimiento
    - A. Actualización de pfSense
    - B. Respaldo y restauración de configuraciones
     
- - IX. Conclusiones
+ - VIII. Conclusiones
    - A. Resumen de los principales puntos cubiertos
    - B. Ventajas y desventajas de pfSense
    - C. Recomendaciones y consideraciones finales
