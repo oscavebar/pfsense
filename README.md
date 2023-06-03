@@ -28,6 +28,6 @@
    - A. [Respaldo y restauración de configuraciones](apartados/backup.md)
     
 - VII. Conclusiones
-   - A. Resumen de los principales puntos cubiertos
+   - A. [Resumen de los principales puntos cubiertos](apartados/resumen.md)
    - B. Ventajas y desventajas de pfSense
    - C. Conclusiones
