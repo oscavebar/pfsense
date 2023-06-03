@@ -20,33 +20,34 @@ Aquí podremos configurar todas las reglas que queramos para nuestras interfaces
  - Protocol: Esta opcíon es importante, aquí decidimos si queremos que esta regla aplique en un protocolo de red específico o todos los protocolos.
  
  ![confcorta2](/imagenes/confcorta2.png)
+ ![confcorta3](/imagenes/confcorta3.png)
  
  - Source: Indicamos desde donde se aplica la regla, donde podemos elegir entre varias opciones. Podemos elegir una red entera, una zona, alguna ip en concreto, etc...
-  ![confcorta3](/imagenes/confcorta3.png)
+  ![confcorta4](/imagenes/confcorta4.png)
  -Destination: Ahora toca decidir a donde se aplica la regla, tenemos varias opciones al igual que en source y específiacmos en que puerto va a actuar esta regla.
 
- ![confcorta4](/imagenes/confcorta4.png)
+ ![confcorta5](/imagenes/confcorta5.png)
  
  - Opciones extra: Aquí podemos hacer una descripción de la regla que siempre recomiendo hacer para poder localizar la regla fácilmente después. Además contamos con la opción de entrar a las configuraciones avanzadas de las que adelante especifíco las más usadas.
 
- ![confcorta5](/imagenes/confcorta5.png)
+ ![confcorta6](/imagenes/confcorta6.png)
  
  Opciones avanzadas:
  
  - Source OS: Esta solo aplica para las reglas TCP, donde podemos especificar además cuál ha de ser el SO del equipo
  - Límites: En la opciónes siguientes podremos ver que se puede establecer un máximo de conexiones por host, por ejemplo.
- ![confcorta6](/imagenes/confcorta6.png)
+ ![confcorta7](/imagenes/confcorta7.png)
  - Schedule: En esta podemos usar una schedule creada con anterioridad, que lo enseñaré en el siguiente apartado.
  - Gateway: Aquí también puedes especificar la puerta de enlace configurada del cliente.
 
-![confcorta7](/imagenes/confcorta7.png)
+![confcorta8](/imagenes/confcorta8.png)
 
 ## Interface Groups
 Aquí podemos configurar un grupo de interfaces para que a la hora de crear una regla puedas ahorrarte crear reglas repetitivas. En el siguiente apartado hay un ejemplo de como se usa.
 
-![confcorta7](/imagenes/confcorta7.png)
+![confcorta9](/imagenes/confcorta9.png)
 
 ## Aliases
 Este es otro apartado para ahorrar tiempo en la creación de reglas si creamos un alias podremos actuar sobre un grupo de IP, puertos y/o URLs.
 
-![confcorta8](/imagenes/confcorta8.png)
+![confcorta10](/imagenes/confcorta10.png)
