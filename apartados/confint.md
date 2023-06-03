@@ -1,10 +1,10 @@
 # Configuración interfaces WAN, LAN y DMZ
 
 WAN:
-IMAGEN
+![int1](/imagenes/int1.png)
 
 LAN:
-IMAGEN
+![int2](/imagenes/int2.png)
 
 DMZ:
-IMAGEN
+![int3](/imagenes/int3.png)
