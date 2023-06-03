@@ -25,7 +25,7 @@
    - B. [Reglas aplicadas](apartados/aplicadas.md)
    
 - VI. Actualizaciones y mantenimiento
-   - A. Respaldo y restauración de configuraciones
+   - A. [Respaldo y restauración de configuraciones](apartados/backup.md)
    - B. Actualización de pfSense.
     
 - VII. Conclusiones
