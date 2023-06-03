@@ -4,7 +4,7 @@
 
 - I. Introducción a pfSense
   - A. [¿Qué es pfSense?](apartados/quees.md)
-  - B. Ventajas principales
+  - B. [Ventajas principales](apartados/ventajas.md)
   
 - II. Arquitectura de pfSense
   - A. Componentes y requisitos del sistema
