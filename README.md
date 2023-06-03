@@ -30,4 +30,4 @@
 - VII. Conclusiones
    - A. Resumen de los principales puntos cubiertos
    - B. Ventajas y desventajas de pfSense
-   - C. Recomendaciones y consideraciones finales
+   - C. Conclusiones
