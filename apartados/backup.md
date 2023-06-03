@@ -6,6 +6,6 @@ Para crear este respaldo:
 
 IMAGEN
 
-Para restaurar usamos la opción de abajo que nos deja escoger un archivo de nuestro equipo y pulsamos donde pone restaurar y ya habremos restaurado una ocnfiguración anterior de pfSense.
+Para restaurar usamos la opción de abajo que nos deja escoger un archivo de nuestro equipo y pulsamos donde pone restaurar y ya habremos restaurado una configuración anterior de pfSense.
 
 IMAGEN
