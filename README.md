@@ -17,22 +17,19 @@
   
 - IV. Interfaces y configuración de red
   - A. [Tipos de interfaces de red soportadas](apartados/interfaces.md)
-  - B. Configuración de interfaces WAN y LAN
+  - B. Configuración de interfaces WAN, LAN y DMZ
   - C. Asignaciones de direcciones IP
-  - D. Configuración de VLANs
   
 - V. Seguridad y cortafuegos
   - A. Funciones de seguridad de pfSense
   - B. Configuración del cortafuegos
-  - C.Reglas de filtrado y políticas de seguridad
-  - D. NAT
+  - C. Reglas de filtrado y políticas de seguridad
   
- - VI. Servicioes de red y servicioes adicionales
+ - VI. Servicios de red y servicios adicionales
    - A. DNS
    - B. DHCP
-   - C. VPN
-   - D. Proxy inverso y servidor WEB
-   - E. Balanceo de carga y alta disponibilidad
+   - C. Proxy inverso y servidor WEB
+   - D. Balanceo de carga y alta disponibilidad
    
  - VII. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
@@ -41,14 +38,8 @@
  - VIII. Actualizaciones y mantenimiento
    - A. Actualización de pfSense
    - B. Respaldo y restauración de configuraciones
-   - C. Solución de problemas comunes
- 
- - IX. Casos de uso y ejemplos prácticos
-   - A. Implementación de pfSense en una red doméstica
-   - B. Configuración de pfSense para una pequeña empresa
-   - C. Escenarios avanzados y personalización
-   
- - X. Conclusiones
+    
+ - IX. Conclusiones
    - A. Resumen de los principales puntos cubiertos
    - B. Ventajas y desventajas de pfSense
    - C. Recomendaciones y consideraciones finales
