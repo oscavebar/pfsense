@@ -22,7 +22,7 @@
   
 - V. Seguridad y cortafuegos
    - A. [Configuración del cortafuegos](apartados/confcorta.md)
-   - B. Reglas aplicadas
+   - B. [Reglas aplicadas](apartados/aplicadas.md)
   
 - VI. Monitereo y registro
    - A. Herramientas de monitoreo disponibles
